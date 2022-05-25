@@ -22,6 +22,7 @@ public class App {
             System.out.println("4 - Consultar faturamento do Hotel");
             System.out.println("5 - Sair");
             opcao = ler.nextInt();
+            
             switch(opcao){
 
                 /* Consulta de Quartos */
